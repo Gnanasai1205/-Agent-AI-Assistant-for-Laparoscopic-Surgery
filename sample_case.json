@@ -1,0 +1,15 @@
+{
+  "procedure": "Laparoscopic cholecystectomy",
+  "operative_step": "Calot triangle dissection before clipping",
+  "vitals": {
+    "bp_systolic": 86,
+    "hr": 128,
+    "spo2": 95
+  },
+  "vision_findings": {
+    "organs": ["liver", "gallbladder", "duodenum"],
+    "instruments": ["Maryland dissector", "hook cautery", "clip applier", "suction irrigator"],
+    "issues": ["active bleeding near cystic artery bed", "unclear anatomy", "critical view not achieved"]
+  },
+  "suspected_complications": ["hemorrhage"]
+}
